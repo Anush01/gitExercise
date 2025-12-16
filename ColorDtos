@@ -1,0 +1,22 @@
+
+class Red{
+
+public String name;
+
+}
+
+class Blue{
+public String name;
+
+}
+
+class Green{
+public String name;
+
+}
+
+
+class Yellow{
+public String name;
+
+}
