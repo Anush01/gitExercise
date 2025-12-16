@@ -1,34 +1,42 @@
 
 class Red{
 
-public String name;
+public Integer name;
 
 }
 
 class Blue{
-public String name;
+public Integer name;
 
 }
 
 class Green{
-public String name;
+public Integer name;
 
 }
 
 
 class Yellow{
-public String name;
+public Integer name;
 
 }
 
 class Black{
-public String name;
+public Integer name;
 }
 
 class White{
-public String name;
+public Integer name;
 }
 
 class Purple{
-public String name;
+public Integer name;
+}
+
+class Orange{
+public Integer name;
+}
+
+class Pink{
+public Integer name;
 }
