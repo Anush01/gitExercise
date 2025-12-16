@@ -20,3 +20,15 @@ class Yellow{
 public String name;
 
 }
+
+class Black{
+public String name;
+}
+
+class White{
+public String name;
+}
+
+class Purple{
+public String name;
+}
